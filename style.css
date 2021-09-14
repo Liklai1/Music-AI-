@@ -1,3 +1,4 @@
+
 .heading{
     font-size: 23px;
     width: 100%;
@@ -10,31 +11,11 @@
 body{
     background-size: cover;
 }
-.div_speed{
-    float: left;
-}
-.div_speed_img{
+#Songname{
+    box-shadow: 5px 5px  18px rgb(79, 15, 122);
+    padding: 15px;
+    margin: 15x;
     width: 200px;
-    border-radius: 100px;
-}
-#speed{
-    font-size: 23px;
-    margin: 15px;
-}
-.div_volume{
-    float: right;
-}
-.div_volume_img{
-    width: 200px;
-    border-radius: 100px;
-}
-#Volume{
-    font-size: 23px;
-    margin: 15px;
-}
-.play_button{
-    width: 130px;
-    font-size: 25px;
 }
 canvas{
     border: 5px solid white;
